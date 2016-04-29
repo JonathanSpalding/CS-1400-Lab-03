@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2015\Projects\lab_03_JCS_V1.0\lab_03_JCS_V1.0\bin\Debug\lab_03_JCS_V1.0.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\lab_03_JCS_V1.0\lab_03_JCS_V1.0\obj\Debug\lab_03_JCS_V1.0.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\lab_03_JCS_V1.0\lab_03_JCS_V1.0\bin\Debug\lab_03_JCS_V1.0.exe
+c:\users\jon\documents\visual studio 2015\Projects\lab_03_JCS_V1.0\lab_03_JCS_V1.0\bin\Debug\lab_03_JCS_V1.0.pdb
+c:\users\jon\documents\visual studio 2015\Projects\lab_03_JCS_V1.0\lab_03_JCS_V1.0\obj\Debug\lab_03_JCS_V1.0.exe
+c:\users\jon\documents\visual studio 2015\Projects\lab_03_JCS_V1.0\lab_03_JCS_V1.0\obj\Debug\lab_03_JCS_V1.0.pdb
